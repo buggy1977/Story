@@ -1,1 +1,2 @@
-Pierwsza linijka chapter 1
+Pierwsza zmiana linijka chapter 1
+Zmiana file 1
